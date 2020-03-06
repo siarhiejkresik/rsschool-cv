@@ -2,10 +2,10 @@
 
 ## Contact info:
 
-**email:** siarhiej.kresik@gmail.com  
-**telegram:** https://t.me/SiarhiejKresik  
+**email:** <siarhiej.kresik@gmail.com>  
+**telegram:** <https://t.me/SiarhiejKresik>  
 **skype:** siarhiej.kresik  
-**github:** https://github.com/siarhiejkresik
+**github:** <https://github.com/siarhiejkresik>
 
 ## Skills:
 
@@ -31,4 +31,4 @@ WG Forge Frontend (Wargaming, 2019) ([test task](https://github.com/siarhiejkres
 ## English
 
 no speaking skills  
-online tests: A2-B1  
+online tests: A2-B1
