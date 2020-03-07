@@ -2,7 +2,7 @@
 
 ## Contact info:
 
-**email:** <siarhiej.kresik@gmail.com>  
+**email:** [siarhiej.kresik@gmail.com](siarhiej.kresik@gmail.com)  
 **telegram:** <https://t.me/SiarhiejKresik>  
 **skype:** siarhiej.kresik  
 **github:** <https://github.com/siarhiejkresik>
